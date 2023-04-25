@@ -31,7 +31,7 @@ const styles = StyleSheet.create({
     backgroundColor: '#fff',
   },
   title: {
-    // 폰트 사이즈
+    // 폰트 사이즈.
     fontSize: 20,
     // 폰트 두께
     fontWeight: '700',
