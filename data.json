@@ -1,0 +1,20 @@
+{
+    "box": [
+        {
+            "idx":0,
+            "category":"생활",
+            "title":"먹다 남은 피자 촉촉하게!",
+            "image":"https://firebasestorage.googleapis.com/v0/b/sparta-image.appspot.com/o/lecture%2Fpizza.png?alt=media&token=1a099927-d818-45d4-b48a-7906fd0d2ad3",
+            "desc":"먹다 남은 피자는 수분이 날라가기 때문에 처음처럼 맛있게 먹을 수 없는데요. 이럴 경우 그릇에 물을 받아 전자레인지 안에서 1분 30초에서 2분 정도 함께 돌려주면 촉촉하게 먹을 수 있습니다. 물이 전자레인지 안에서 수증기를 일으키고, 피자에 촉촉함을 더해줍니다.",
+            "date":"2023.04.09"
+        },
+        {
+            "idx":1,
+            "category":"생활",
+            "title":"바나나를 싱싱하게 보관하기",
+            "image":"https://firebasestorage.googleapis.com/v0/b/sparta-image.appspot.com/o/lecture%2Fbanana.png?alt=media&token=886aeb87-7ff8-4498-8674-7e4f878b8845",
+            "desc":"바나나에 날파리가 꼬이거나 금방 익어버리는 것을 예방하기 위한 방법인데요. 바나나 양쪽 끝을 자른 후, 보관용 케이스나 비닐봉지에 묶어 밀봉합니다. 그리고 냉장고에 넣어주면 되는데요. 하루에 1~2개씩 꺼내서 싱싱하게 먹을 수 있습니다.",
+            "date":"2023.05.01"
+        }
+    ]
+}
