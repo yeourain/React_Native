@@ -25,7 +25,7 @@ export default function App() {
         <TouchableOpacity style={styles.middleButton04}><Text style={styles.middleButtonText}>즐겨찾기</Text></TouchableOpacity>
       </ScrollView>
       <View style={styles.cardContainer}>
-        {/* 하나의 카드 영역을 나타내는 View */}
+        {/* 하나의 카드 영역을 나타내는 View. */}
         {
           box.map((content,i)=>{
             return (<View style={styles.card} key={i}>
