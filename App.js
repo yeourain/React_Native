@@ -11,7 +11,7 @@ export default function App() {
   let box = data.box;
   let todayWeather = 10 + 17;
   let todayCondition = "흐림"
-  // 화면을 반환.
+  // 화면을 반환
   // HTML 태그 같이 생긴 문법은 JSX이고, 실제 화면을 그리는 문법
   return (
     <ScrollView style={styles.container}>
