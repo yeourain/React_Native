@@ -1,9 +1,9 @@
 // 리액트, 리액트 네이티브, 엑스포 라이브러리에서 꺼내 사용할 기능들을
 // 이렇게 상단에 선언한다음 가져다가 사용
 import React from 'react';
-import main from './assets/main.png';
+import main from '../assets/main.png';
 import { StyleSheet, Text, View, Image, TouchableOpacity, ScrollView } from 'react-native';
-import data from './data.json';
+import data from '../data.json';
 
 // App.js는 결국 App 함수를 내보내기 하고 있는 자바스크립트 파일
 export default function App() {
